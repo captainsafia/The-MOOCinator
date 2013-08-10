@@ -3,10 +3,12 @@
 <head>
 	<title>The MOOCinator</title>
 	<?php echo HTML::style('media/css/bootstrap.css'); ?>
+	<?php echo HTML::style('media/css/style.css'); ?>
 </head>
 <body>
-	<div class="container">
+<div class="container well">
 		<div class="row-fluid">
+		<h2>The Moocinator</h2>
 			<div class="span12">
 				<div class="span6">
 					<div class="area">
@@ -81,5 +83,7 @@
 			</div>			
 		</div>
 	</div>
+	<?php echo HTML::style('media/js/jquery.js'); ?>
+	<?php echo HTML::style('media/js/script.js'); ?>
 </body>
 </html>
