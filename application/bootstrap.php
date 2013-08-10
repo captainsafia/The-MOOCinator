@@ -92,7 +92,7 @@ if (isset($_SERVER['KOHANA_ENV']))
  
 // Original Kohana code
 Kohana::init(array(
-	'base_url'   => 'http://localhost:8888/MOOCinator',
+	'base_url'   => '/The-MOOCinator',
 ));
 
 // Workaround as suggested by AmazingDreams on StackOverflow
