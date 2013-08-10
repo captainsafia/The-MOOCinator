@@ -83,7 +83,7 @@
 			</div>			
 		</div>
 	</div>
-	<?php echo HTML::style('media/js/jquery.js'); ?>
-	<?php echo HTML::style('media/js/script.js'); ?>
+	<?php echo HTML::script('media/js/jquery.js'); ?>
+	<?php echo HTML::script('media/js/script.js'); ?>
 </body>
 </html>
