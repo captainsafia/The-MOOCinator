@@ -17,3 +17,4 @@ application/files
 application/config/database.php
 application/config/dev-htpasswd
 htdocs/media/*
+modules/MangoDB/config/*
